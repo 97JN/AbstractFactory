@@ -5,7 +5,7 @@ import org.example.factories.GUIFactory;
 import org.example.factories.MacOSFactory;
 import org.example.factories.WindowsFactory;
 
-//MacOS variant checkbox
+
 public class Main {
     public static ClientApp configureApplication(){
         ClientApp clientApp;
